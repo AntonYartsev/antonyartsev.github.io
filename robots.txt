@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://antonyartsev.com/sitemap.xml
